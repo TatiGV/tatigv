@@ -33,4 +33,4 @@ I'm a Full-Stack Web Developer based in Barcelona with a strong foundation in mo
 
 ## 📫 Contact
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://github.com/TatiGV)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](linkedin.com/in/tatiana-garcia-valdivia)
