@@ -37,4 +37,4 @@ I'm a Full-Stack Web Developer based in Barcelona with a strong foundation in mo
 
 ## 🚀 Project
 
-- https://www.linkedin.com/posts/tatiana-garcia-valdivia_estoy-emocionada-de-compartir-este-video-activity-7283045678748979200-uc35?utm_source=share&utm_medium=member_desktop
+- [![Exoticus]https://www.linkedin.com/posts/tatiana-garcia-valdivia_estoy-emocionada-de-compartir-este-video-activity-7283045678748979200-uc35?utm_source=share&utm_medium=member_desktop]
