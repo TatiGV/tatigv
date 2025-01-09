@@ -34,3 +34,4 @@ I'm a Full-Stack Web Developer based in Barcelona with a strong foundation in mo
 ## 📫 Contact
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tatiana-garcia-valdivia/)
+- [![LinkedIn](https://www.linkedin.com/posts/tatiana-garcia-valdivia_estoy-emocionada-de-compartir-este-video-activity-7283045678748979200-uc35?utm_source=share&utm_medium=member_desktop)]
